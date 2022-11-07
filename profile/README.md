@@ -1,7 +1,6 @@
 # Welcome to Panda's Org
 
-Hi, this is me, Panda.
+Hi, this is me, xiaozha.
 
-You see this avatar, you know it is me.
 
 ![Image text](assets/1.jpg)
